@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+  position: absolute;
+  bottom: 100px;
+}
+
+.card-crew {
+  cursor: pointer;
+}
+
+.goingMerry {
+  width: 420px;
+}
+
+img {
+  width: 500px;
+  object-fit: contain;
+}
+
+.name-crew {
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+}

@@ -1,0 +1,35 @@
+#cabeçalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  /* background-color: #222; */
+  padding: 20px;
+  color: #fff;
+}
+
+#logo {
+  width: 180px;
+  margin-left: 50px;
+}
+
+#navbar {
+  margin-right: 50px;
+}
+
+#list-navbar {
+  font-size: 20px;
+  margin-left: 0px;
+  display: flex;
+  align-items: center;
+}
+
+#list-navbar li {
+  padding: 10px;
+  list-style: none;
+}
+
+#list-navbar li a {
+  text-decoration: none;
+  color: #fff;
+}
